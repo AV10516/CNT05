@@ -1,1 +1,1 @@
-var data1='Avashesh Vishwakarma-200';
+var data1='Avashesh Vishwakarma gnnu';
